@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/lolmanager/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/lolmanager/static/js/main.3897b522.chunk.js",
-    "main.js.map": "/lolmanager/static/js/main.3897b522.chunk.js.map",
+    "main.js": "/lolmanager/static/js/main.95e8208b.chunk.js",
+    "main.js.map": "/lolmanager/static/js/main.95e8208b.chunk.js.map",
     "runtime-main.js": "/lolmanager/static/js/runtime-main.c6381590.js",
     "runtime-main.js.map": "/lolmanager/static/js/runtime-main.c6381590.js.map",
-    "static/js/2.63eeb5c1.chunk.js": "/lolmanager/static/js/2.63eeb5c1.chunk.js",
-    "static/js/2.63eeb5c1.chunk.js.map": "/lolmanager/static/js/2.63eeb5c1.chunk.js.map",
+    "static/js/2.49a2311b.chunk.js": "/lolmanager/static/js/2.49a2311b.chunk.js",
+    "static/js/2.49a2311b.chunk.js.map": "/lolmanager/static/js/2.49a2311b.chunk.js.map",
     "static/js/3.b094cc3b.chunk.js": "/lolmanager/static/js/3.b094cc3b.chunk.js",
     "static/js/3.b094cc3b.chunk.js.map": "/lolmanager/static/js/3.b094cc3b.chunk.js.map",
     "index.html": "/lolmanager/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/lolmanager/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.63eeb5c1.chunk.js.LICENSE.txt": "/lolmanager/static/js/2.63eeb5c1.chunk.js.LICENSE.txt"
+    "static/js/2.49a2311b.chunk.js.LICENSE.txt": "/lolmanager/static/js/2.49a2311b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6381590.js",
-    "static/js/2.63eeb5c1.chunk.js",
+    "static/js/2.49a2311b.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.3897b522.chunk.js"
+    "static/js/main.95e8208b.chunk.js"
   ]
 }
